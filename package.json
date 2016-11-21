@@ -1,0 +1,19 @@
+{
+  "name": "oilchange",
+  "version": "1.0.0",
+  "description": "Vehicle maintenance logger ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrobertson/OilChange.git"
+  },
+  "author": "danielrobertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielrobertson/OilChange/issues"
+  },
+  "homepage": "https://github.com/danielrobertson/OilChange#readme"
+}
