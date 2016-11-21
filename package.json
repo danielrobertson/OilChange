@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielrobertson/OilChange/issues"
   },
-  "homepage": "https://github.com/danielrobertson/OilChange#readme"
+  "homepage": "https://github.com/danielrobertson/OilChange#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
